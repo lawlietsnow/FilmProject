@@ -1,0 +1,2 @@
+co anh+d:\Luna.png
+co phim+src\films\Luna.jpg
